@@ -100,3 +100,6 @@ Health spending measures the final consumption of health care goods and services
 
 ### Happy country
 Binary measure indicating overally happy country in a specific year or mediocre/unhappy country. Happy is considred above 6.0. This is to ensure that a country is happy with bigger confidence as the median 5.0 could be very likely the outcome of perfectly balanced positive and negative responses that even themselves out to the exact median.
+
+## Report
+https://www.overleaf.com/3125193825nbsgbggckmcn
